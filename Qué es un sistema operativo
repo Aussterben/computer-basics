@@ -1,0 +1,14 @@
+Un sistema operativo (SO) es un software fundamental que gestiona el hardware y los recursos de una computadora, permitiendo que los usuarios y las aplicaciones interactúen con el sistema de manera eficiente. 
+Actúa como intermediario entre el hardware de la computadora (como la CPU, la memoria y los dispositivos de almacenamiento) y los programas que se ejecutan en ella.
+
+Funciones principales de un sistema operativo:
+
+    Gestión de procesos: Administra la ejecución de los programas, asignando recursos como el tiempo de CPU y gestionando las multitareas, permitiendo que varios procesos se ejecuten al mismo tiempo.
+
+    Gestión de memoria: Controla la memoria RAM, asignando espacio a los programas en ejecución y liberando memoria cuando ya no se necesita.
+
+    Gestión de almacenamiento: Maneja la lectura y escritura de datos en dispositivos de almacenamiento como discos duros, SSD, y otros medios, organizando archivos y carpetas.
+
+    Gestión de dispositivos: Coordina el uso de dispositivos de entrada y salida (teclado, ratón, impresora, etc.), proporcionando una interfaz para que el software interactúe con el hardware.
+
+    Interfaz de usuario: Proporciona una interfaz, ya sea gráfica (GUI) o basada en texto (línea de comandos), para que los usuarios puedan interactuar con la computadora.
