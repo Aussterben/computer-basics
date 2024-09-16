@@ -1,0 +1,10 @@
+Algunos sistemas operativos a evitar en caso de ser novatos son los siguientes:
+
+Arch Linux
+Kali linux
+Parrot OS
+Todos los que sean dedicados al pentesting
+
+¿Por qué son sistemas a Evitar?
+Bien, Arch Linux no es dedicado al pentesting (creo), pero no lo recomiendo nada si eres novato ya que es la mayoría de cosa por shortcuts (atajos de teclado). Y en caso de no saber, será bastante difícil.
+Kali Linux & Parrot OS. Esto son sistemas dedicados al pentesting. Si nosotros simplemente vamos a programar, un sistema como Ubuntu va genial, no hace falta parrot o kali, debido a que tienen tools que no usamos casi nunca.
