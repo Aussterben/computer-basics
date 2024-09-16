@@ -1,0 +1,7 @@
+Bien, ya sabes que sistema operativo descargar. En el caso de que el pc o portátil que te hayas comprado ya venga con windows, no pasa nada, puedes cambiarlo. 
+Agarraremos un USB y lo colocaremos en el PC o portátil. Luego nos iremos a la página de Windows en caso que queramos Windows, o a ubuntu (sistema recomendado, hay más distribuciones). Descargaremos la ISO y luego nos descargaremos un programa
+llamado "Rufus". Ahí seleccionaremos la iso que hemos descargado y el USB. Una vez eso, podemos darle a "Empezar".
+
+Tras descargar todo, tenemos que reiniciar el pc e ir a la BIOS.
+Depende del pc & portátil que tengamos, tendremos una BOOT diferente, pero tenemos que buscar la sección que ponga algo así de "arranque". Ahí nos vendrán varias secciones. Tenemos que elegir de preferencia de arranque el USB. 
+Al darle al botón "Enter" el ordenador se reiniciará y automáticamente nos pondrá para descargar el sistema operativo.
